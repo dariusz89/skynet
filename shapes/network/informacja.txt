@@ -1,0 +1,12 @@
+Kolejność uruchamiania:
+1. Wygenerowanie danych:
+python3 data-generator.py
+2. Przygotowanie zbiorów danych:
+python3 prepare-dataset.py
+3. Trening sieci:
+python3 net.py
+4. Przetestowanie sieci:
+python3 test-net.py
+5. Indywidualny test sieci:
+python3 check-net.py
+6. Skrypt sieci wykorzystywany do aplikacji www: skynet.py
